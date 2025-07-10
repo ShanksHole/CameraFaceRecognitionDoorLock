@@ -12,3 +12,6 @@ IN THIS PROJECT COMPONENTS USED ARE:
 2. solenoid
 3. relay
 4. 12V battery 2200mah
+
+
+Refer to the connections too
