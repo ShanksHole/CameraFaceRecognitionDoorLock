@@ -15,3 +15,5 @@ IN THIS PROJECT COMPONENTS USED ARE:
 
 
 Refer to the connections too
+<img width="2578" height="1205" alt="Circuit_Block_diagram" src="https://github.com/user-attachments/assets/95c1113d-6444-4c2c-9902-0d2587e22d62" />
+<img width="2076" height="1321" alt="Connection_To_TTL" src="https://github.com/user-attachments/assets/531d5914-455e-4abf-aecf-a26befe2b71c" />
